@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ObjectLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5435155253424177488
+  m_GuidHigh: 3771101500121922969
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5150520050248342169
+      m_GuidHigh: 8740621996786747821
+    m_SerializedTextureGuid:
+      m_GuidLow: 3640239069393584408
+      m_GuidHigh: 17707975709935390059
+    m_Size: {x: 0.3, y: 0.3670282}
+    m_SpecifySize: 1
+    m_Name: Chair
+    m_Texture: {fileID: 2800000, guid: 94b40118ba2532846bcdf159165ebff5, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5551156815395512590
+      m_GuidHigh: 14909544638829682827
+    m_SerializedTextureGuid:
+      m_GuidLow: 5752490700846952568
+      m_GuidHigh: 1107107256355538376
+    m_Size: {x: 0.3, y: 0.21132076}
+    m_SpecifySize: 1
+    m_Name: Bed
+    m_Texture: {fileID: 2800000, guid: 7db87078f3d04fd4c84554172f3c5d0f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5684286764378863789
+      m_GuidHigh: 12901472761980288136
+    m_SerializedTextureGuid:
+      m_GuidLow: 10494789539328322082
+      m_GuidHigh: 12818253581120078314
+    m_Size: {x: 0.1, y: 0.18019803}
+    m_SpecifySize: 1
+    m_Name: Plant
+    m_Texture: {fileID: 2800000, guid: 74266a22fb7b91a4ea818acfb795e3b1, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5342699998377474990
+      m_GuidHigh: 12051955063310275487
+    m_SerializedTextureGuid:
+      m_GuidLow: 6342214718795153699
+      m_GuidHigh: 14172312566388030811
+    m_Size: {x: 0.3, y: 0.22457628}
+    m_SpecifySize: 1
+    m_Name: Table
+    m_Texture: {fileID: 2800000, guid: 2b0a012312af58045bfd5ce5302baec4, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5279583594936343213
+      m_GuidHigh: 264192174827934611
+    m_SerializedTextureGuid:
+      m_GuidLow: 14457834299624560188
+      m_GuidHigh: 5810585969475224698
+    m_Size: {x: 0.15, y: 0.24257144}
+    m_SpecifySize: 1
+    m_Name: BookCover
+    m_Texture: {fileID: 2800000, guid: d294963c8bb1c8a47a8470472759a350, type: 3}
